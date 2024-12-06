@@ -8,6 +8,6 @@
 
 ### Сейчас я ищу работу. [Это моё резюме](https://hh.ru/resume/6c00b64dff0e192fe90039ed1f46554b576c34?hhtmFrom=resume_list) :blush:
 ---
-![JS](https://github.com/user-attachments/assets/55410b62-c78a-4ea5-a0f8-3f0ccf97278b) ![HTML](https://github.com/user-attachments/assets/5087b671-09fa-4f80-be1b-ccf93b276995)
+![JS](https://github.com/user-attachments/assets/55410b62-c78a-4ea5-a0f8-3f0ccf97278b "Java Script") ![HTML](https://github.com/user-attachments/assets/5087b671-09fa-4f80-be1b-ccf93b276995 "HTML") 
 
 
