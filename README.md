@@ -7,4 +7,6 @@
 - :mag: Хочу найти команду, с которой можно будет сделать что-то полезное и удобное для людей, а так же делиться опытом)
 
 ### Сейчас я ищу работу. [Это моё резюме](https://hh.ru/resume/6c00b64dff0e192fe90039ed1f46554b576c34?hhtmFrom=resume_list) :blush:
---
+---
+![free-icon-js-5968292](https://github.com/user-attachments/assets/23269587-d63c-4de5-ba17-e4a4fe578499)
+
