@@ -14,6 +14,7 @@
 </p>
 
 <h4 align="center">Контакты для связи</h4>
+<p align="left">
 [![vk](https://github.com/user-attachments/assets/ef5b54b6-3445-4d27-a2ee-ffc6ecf88c96)](https://vk.com/roman_pit4you)
-
+</p>
 
