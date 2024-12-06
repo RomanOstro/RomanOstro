@@ -8,6 +8,7 @@
 
 ### Сейчас я активно ищу работу. [Это моё резюме](https://hh.ru/resume/6c00b64dff0e192fe90039ed1f46554b576c34?hhtmFrom=resume_list) :blush:
 ---
+
 :rocket: Используемые мной технологии:
 ------------
 <p align="left">
